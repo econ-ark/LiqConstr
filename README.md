@@ -17,10 +17,15 @@ Figures can be produced either:
    3. Change to the `LiqConstr` directory and execute `ipython LiqConstr.py` from the command line.
  
 #### In a local interactive [jupyter notebook](https://jupyter.org)
-   1. [Install the jupyter notebook tool] per [Installation.md](https://github.com/econ-ark/REMARK)
+   1. Install the jupyter notebook tool per [Installation.md](https://github.com/econ-ark/REMARK)
    2. Download this repository using `git clone https://github.com/econ-ark/LiqConstr` or a zip folder [using this link](https://github.com/econ-ark/LiqConstr/archive/master.zip).
    3. Type `jupyter lab` at the command line
    4. Click on `LiqConstr.ipynb`
+
+#### Reproduce the figures and compile the paper locally using `nbreproduce`
+   1. Install [nbreproduce](https://github.com/econ-ark/nbreproduce)
+   2. Download this repository using `git clone https://github.com/econ-ark/LiqConstr` or a zip folder [using this link](https://github.com/econ-ark/LiqConstr/archive/master.zip).
+   3. Execute `nbreproduce` from the command line.
 	  
 ## Paper
 
