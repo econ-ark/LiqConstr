@@ -1,5 +1,7 @@
 # Liquidity Constraints and Precautionary Saving
 
+[![DOI](https://zenodo.org/badge/302430141.svg)](https://zenodo.org/badge/latestdoi/302430141)
+
 The LiqConstr directory contains code to reproduce the figures of the paper [Liquidity Constraints and Precautionary Saving](https://econ-ark.github.io/LiqConstr/) by Carroll, Holm, and Kimball,
 and the LaTeX source to produce the paper once the figures have been created.
 
